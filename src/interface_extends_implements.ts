@@ -1,12 +1,12 @@
-// Interfaces
+/* Interfaces
 interface Person{
     id: number;
     name: string;  
 }
 
-interface Employee extends Person{
-    dept: string;
-}
+//interface Employee extends Person{
+ //   dept: string;
+//}
 
 interface Costumer extends Person{
     country: string;
@@ -23,4 +23,4 @@ class Zoo implements Animal{
     getCats(): void {
         //
     };
-}
+}*/
